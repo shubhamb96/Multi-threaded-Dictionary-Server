@@ -1,5 +1,11 @@
 # Multi-threaded Dictionary Server
 
+
+The project was about building a client-server architecture to implement a Multithreaded
+Dictionary Server that allowed concurrent clients to add words with
+meaning(s), search for the meaning(s) of a word and delete existing words from the
+dictionary. The architecture makes use of TCP Sockets and Threads at the lowest level
+of abstraction for the purpose of network communication and concurrency.
 How to run instruction:
 
 - To start the server:
