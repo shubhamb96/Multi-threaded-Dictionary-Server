@@ -1,3 +1,5 @@
+#Multi-threaded Dictionary Server
+
 How to run instruction:
 
 - To start the server:
