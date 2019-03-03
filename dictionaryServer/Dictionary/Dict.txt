@@ -1,0 +1,5 @@
+analysis:abstract separation of a whole into its constituent parts
+data:a collection of facts from which conclusions may be drawn
+economic:of or relating to production and management of wealth
+formula:a group of symbols that make a mathematical statement
+procedure:a particular course of action intended to achieve a result
